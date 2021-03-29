@@ -1,0 +1,9 @@
+*.idea
+*.ipynb_checkpoints
+*-zh.ipynb
+*.tar.gz
+10_code
+*decoder_test-1.pkl
+*decoder_test-2.pkl
+*encoder_test-1.pkl
+*encoder_test-2.pkl
