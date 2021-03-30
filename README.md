@@ -5,5 +5,5 @@ This repo contains exercises and projects for udacity computer vision nanodegree
 
 ## Facial keypoint detection
 <p align="center">
-  <img src="./02_projects/proj01_facial_keypoint_detection/images/encoder-decoder.png" width=50% height=50% />
+  <img src="./02_projects/proj01_facial_keypoint_detection/images/key_pts_example.png" width=50% height=50% />
 </p>
