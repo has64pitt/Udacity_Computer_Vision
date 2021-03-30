@@ -11,5 +11,5 @@ This repo contains exercises and projects for udacity computer vision nanodegree
 
 ## Image caption
 <p align="center">
-  <img src="./02_projects/proj02_image_caption/images/encoder-decoder.png" width=50% height=50% />
+  <img src="./02_projects/proj02_image_caption/images/encoder-decoder.png" width=70% height=70% />
 </p>
