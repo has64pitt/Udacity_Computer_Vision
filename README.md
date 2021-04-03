@@ -13,3 +13,8 @@ This repo contains exercises and projects for udacity computer vision nanodegree
 <p align="center">
   <img src="./02_projects/proj02_image_caption/images/encoder-decoder.png" width=70% height=70% />
 </p>
+
+## Landmark detection and tracking
+<p align="center">
+  <img src="./03_projects/proj03_landmark_detection_and_tracking/images/robot_world.png" width=70% height=70% />
+</p>
